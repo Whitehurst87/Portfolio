@@ -94,7 +94,7 @@
   
   body {
     font-size: 1em;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lekton', sans-serif;
     color: #152a3e;
     background-color: #eeefda;
     /* Sometimes the default background for a browser isn't exactly white. Adding a default allows more consistency between browsers. */
@@ -114,7 +114,7 @@
   
   h1 {
     color: #152a3e;
-    font-family: 'Alike', serif;
+    font-family: 'Lexend', serif;
     font-size: 1.75rem;
     line-height: 1.5;
     width: 100%
@@ -122,7 +122,7 @@
   
   h2 {
     color: #152a3e;
-    font-family: 'Alike', serif;
+    font-family: 'Lexend', serif;
     font-size: 1.25rem;
     line-height: 1.5;
     width: 100%;
@@ -160,7 +160,7 @@
   h4,
   h5,
   h6 {
-    font-family: 'Alike', serif;
+    font-family: 'Lekton', serif;
     line-height: 1.5;
     width: 100%
   }
@@ -933,8 +933,8 @@
   
     nav ul li a:hover,
     nav #contact-link:hover {
-      background-color: #F8C6C6;
-      color: #453E4F;
+      background-color: #b3d4fc;
+      color: #152a3e;
       padding: 10px 10px;
       border-radius: 30px;
     }
