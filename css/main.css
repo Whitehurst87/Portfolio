@@ -432,6 +432,7 @@
   
   footer .contact-info {
     width: 60%;
+    line-height: 9;
   }
   
   footer h4 {
@@ -770,7 +771,7 @@
   
     footer .social-icons {
       width: 12.5em;
-      justify-content: space-between;
+      justify-content: space-around;
     }
   
     footer .social-icons li i {
